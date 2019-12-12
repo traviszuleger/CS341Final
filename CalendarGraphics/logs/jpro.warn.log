@@ -1,0 +1,4 @@
+2019-09-18 17:18:37,456 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-8 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2019-09-18 17:39:41,238 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-3 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2019-09-18 18:07:56,495 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-5 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2019-09-23 13:56:35,119 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-4 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'

@@ -1,0 +1,41 @@
+Pane {
+
+    -fx-background-color: white;
+}
+
+Button {
+
+    -fx-font-size: 20;
+    -fx-background-radius: 0;
+
+    -fx-background-color: white;
+
+    /* gives the bottom edges a three pixel wide black border */
+    -fx-border-width: 0 0 3 0;
+    -fx-border-color: black;
+}
+
+VBox {
+
+    -fx-background-color: white;
+}
+
+GridPane {
+
+    -fx-background-color: white;
+}
+
+#buttonPanel {
+
+    -fx-border-radius: 20;
+    -fx-border-color: black;
+    -fx-border-width: 0, 0, 0, 10;
+}
+
+/* Statements here are applied to all Buttons when the cursor is hovering over
+ * any Button.*/
+Button:hover {
+
+    /* changes the cursor to a hand */
+    -fx-cursor: hand;
+}

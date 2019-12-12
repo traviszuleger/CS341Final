@@ -1,0 +1,147 @@
+2019-09-18 17:18:28,591 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.Initializer$ - redirected OUT / ERR
+2019-09-18 17:18:28,592 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.Initializer$ - installed SLF4JBridge
+2019-09-18 17:18:28,592 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.MonocleInitializer$ - screen: null
+2019-09-18 17:18:28,592 [INFO] in scala-execution-context-global-30 - Warning: Quantum will not submit render jobs, nothing should draw
+2019-09-18 17:18:28,593 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.Initializer$ - finished init!
+2019-09-18 17:18:28,613 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.j.i.s.Initializer$ - JavaFX version: 11.0.3.1-jpro+0-2019-05-26-224641
+2019-09-18 17:18:28,817 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.j.i.c.m.DynamicDataModel - Started Monitoring chart data...
+2019-09-18 17:18:29,118 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.j.i.c.m.ChartJSONImExporter - Nothing to import
+2019-09-18 17:18:30,410 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] play.api.Play - Application started (Prod)
+2019-09-18 17:18:32,804 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] p.c.s.AkkaHttpServer - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2019-09-18 17:18:37,459 [INFO] in scala-execution-context-global-42 - [[33mwarn[0m] c.jpro - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2019-09-18 17:18:37,636 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.jpro - application requested: 0!CalendarGraphics
+2019-09-18 17:18:37,687 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.jpro - Creating Application: 0!CalendarGraphics
+2019-09-18 17:18:37,701 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2019-09-18 17:18:37,707 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.jpro - host          localhost:8080
+2019-09-18 17:18:37,710 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.jpro - uri           /app/0!CalendarGraphics
+2019-09-18 17:18:39,204 [INFO] in scala-execution-context-global-42 - Font init, name: Roboto Regular filename: /media/luminous_nutria/Sample0164/CalProject/build/jpro/fonts/Roboto-Regular.ttf fIndex: 0
+2019-09-18 17:18:41,513 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.j.i.s.ViewSerializerActor - appdef: AppByMain(calendargraphics,graphics.GraphicsMain,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/CalendarGraphics,1366.0,611.0,false,en-US,List(en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-11-2-actorRefSource#-674295247]
+2019-09-18 17:18:43,805 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] com.jpro.JS - received msg: new MainID: 601 userid: 976800669
+2019-09-18 17:19:47,764 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - 
+2019-09-18 17:19:47,779 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - Application closed:
+2019-09-18 17:19:47,857 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - startTime      : Wed Sep 18 17:19:47 CDT 2019      
+2019-09-18 17:19:47,888 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.028 
+2019-09-18 17:19:47,898 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.007  
+2019-09-18 17:19:47,899 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000
+2019-09-18 17:19:47,906 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000
+2019-09-18 17:19:47,911 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - raw            : 315307
+2019-09-18 17:19:47,913 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - zipped         : 77519
+2019-09-18 17:19:47,916 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - 
+2019-09-18 17:39:28,598 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.j.i.s.Initializer$ - redirected OUT / ERR
+2019-09-18 17:39:28,603 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.j.i.s.Initializer$ - installed SLF4JBridge
+2019-09-18 17:39:28,604 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.j.i.s.MonocleInitializer$ - screen: null
+2019-09-18 17:39:28,604 [INFO] in scala-execution-context-global-43 - Warning: Quantum will not submit render jobs, nothing should draw
+2019-09-18 17:39:28,605 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.j.i.s.Initializer$ - finished init!
+2019-09-18 17:39:28,642 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.j.i.s.Initializer$ - JavaFX version: 11.0.3.1-jpro+0-2019-05-26-224641
+2019-09-18 17:39:28,960 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.j.i.c.m.DynamicDataModel - Started Monitoring chart data...
+2019-09-18 17:39:30,385 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.j.i.c.m.ChartJSONImExporter - Imported chart data Wed Sep 18 17:39:27 CDT 2019
+2019-09-18 17:39:31,858 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] play.api.Play - Application started (Prod)
+2019-09-18 17:39:35,453 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] p.c.s.AkkaHttpServer - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2019-09-18 17:39:41,241 [INFO] in scala-execution-context-global-43 - [[33mwarn[0m] c.jpro - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2019-09-18 17:39:41,732 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.jpro - application requested: 0!CalendarGraphics
+2019-09-18 17:39:41,803 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.jpro - Creating Application: 0!CalendarGraphics
+2019-09-18 17:39:41,822 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.jpro - remoteAddress 127.0.0.1
+2019-09-18 17:39:41,834 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.jpro - host          localhost:8080
+2019-09-18 17:39:41,857 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.jpro - uri           /app/0!CalendarGraphics
+2019-09-18 17:39:43,725 [INFO] in scala-execution-context-global-43 - Font init, name: Roboto Regular filename: /media/luminous_nutria/Sample0164/CalProject/build/jpro/fonts/Roboto-Regular.ttf fIndex: 0
+2019-09-18 17:39:46,400 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.j.i.s.ViewSerializerActor - appdef: AppByMain(calendargraphics,graphics.GraphicsMain,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/CalendarGraphics,1324.0,681.0,false,en-US,List(en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-9-2-actorRefSource#-1151713402]
+2019-09-18 17:39:48,646 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] com.jpro.JS - received msg: new MainID: 601 userid: 1094756923
+2019-09-18 17:39:59,118 [INFO] in scala-execution-context-global-31 - [[37minfo[0m] c.j.i.s.ViewInfo$ - 
+2019-09-18 17:39:59,150 [INFO] in scala-execution-context-global-31 - [[37minfo[0m] c.j.i.s.ViewInfo$ - Application closed:
+2019-09-18 17:39:59,154 [INFO] in scala-execution-context-global-31 - [[37minfo[0m] c.j.i.s.ViewInfo$ - startTime      : Wed Sep 18 17:39:59 CDT 2019      
+2019-09-18 17:39:59,154 [INFO] in scala-execution-context-global-31 - [[37minfo[0m] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.026 
+2019-09-18 17:39:59,154 [INFO] in scala-execution-context-global-31 - [[37minfo[0m] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.005  
+2019-09-18 17:39:59,175 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000
+2019-09-18 17:39:59,190 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000
+2019-09-18 17:39:59,193 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.j.i.s.ViewInfo$ - raw            : 103715
+2019-09-18 17:39:59,211 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.j.i.s.ViewInfo$ - zipped         : 18802
+2019-09-18 17:39:59,212 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.j.i.s.ViewInfo$ - 
+2019-09-18 17:40:09,277 [INFO] in scala-execution-context-global-43 - [[37minfo[0m] c.j.i.c.InstanceImpl - closing window!
+2019-09-18 17:40:58,745 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.Initializer$ - redirected OUT / ERR
+2019-09-18 17:40:58,746 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.Initializer$ - installed SLF4JBridge
+2019-09-18 17:40:58,746 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.MonocleInitializer$ - screen: null
+2019-09-18 17:40:58,746 [INFO] in scala-execution-context-global-30 - Warning: Quantum will not submit render jobs, nothing should draw
+2019-09-18 17:40:58,746 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.Initializer$ - finished init!
+2019-09-18 17:40:58,803 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.j.i.s.Initializer$ - JavaFX version: 11.0.3.1-jpro+0-2019-05-26-224641
+2019-09-18 17:40:58,984 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.j.i.c.m.DynamicDataModel - Started Monitoring chart data...
+2019-09-18 17:41:00,443 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.j.i.c.m.ChartJSONImExporter - Imported chart data Wed Sep 18 17:40:57 CDT 2019
+2019-09-18 17:41:01,965 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] play.api.Play - Application started (Prod)
+2019-09-18 17:41:05,553 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] p.c.s.AkkaHttpServer - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2019-09-18 17:41:10,987 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.jpro - application requested: 0!CalendarGraphics
+2019-09-18 17:41:11,064 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.jpro - Creating Application: 0!CalendarGraphics
+2019-09-18 17:41:11,087 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.jpro - remoteAddress 127.0.0.1
+2019-09-18 17:41:11,102 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.jpro - host          localhost:8080
+2019-09-18 17:41:11,102 [INFO] in scala-execution-context-global-42 - [[37minfo[0m] c.jpro - uri           /app/0!CalendarGraphics
+2019-09-18 17:41:13,283 [INFO] in scala-execution-context-global-30 - Font init, name: Roboto Regular filename: /media/luminous_nutria/Sample0164/CalProject/build/jpro/fonts/Roboto-Regular.ttf fIndex: 0
+2019-09-18 17:41:15,548 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewSerializerActor - appdef: AppByMain(calendargraphics,graphics.GraphicsMain,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/CalendarGraphics,1324.0,681.0,false,en-US,List(en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-6-2-actorRefSource#1843379166]
+2019-09-18 17:41:18,457 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] com.jpro.JS - received msg: new MainID: 601 userid: 1805138559
+2019-09-18 17:41:31,465 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - 
+2019-09-18 17:41:31,467 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - Application closed:
+2019-09-18 17:41:31,481 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - startTime      : Wed Sep 18 17:41:31 CDT 2019      
+2019-09-18 17:41:31,493 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.030 
+2019-09-18 17:41:31,505 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.009  
+2019-09-18 17:41:31,516 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000
+2019-09-18 17:41:31,527 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000
+2019-09-18 17:41:31,530 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - raw            : 65818
+2019-09-18 17:41:31,534 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - zipped         : 17230
+2019-09-18 17:41:31,537 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.s.ViewInfo$ - 
+2019-09-18 17:41:42,529 [INFO] in scala-execution-context-global-30 - [[37minfo[0m] c.j.i.c.InstanceImpl - closing window!
+2019-09-18 18:07:42,225 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.Initializer$ - redirected OUT / ERR
+2019-09-18 18:07:42,226 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.Initializer$ - installed SLF4JBridge
+2019-09-18 18:07:42,227 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.MonocleInitializer$ - screen: null
+2019-09-18 18:07:42,227 [INFO] in scala-execution-context-global-32 - Warning: Quantum will not submit render jobs, nothing should draw
+2019-09-18 18:07:42,227 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.Initializer$ - finished init!
+2019-09-18 18:07:42,325 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.j.i.s.Initializer$ - JavaFX version: 11.0.3.1-jpro+0-2019-05-26-224641
+2019-09-18 18:07:42,641 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.j.i.c.m.DynamicDataModel - Started Monitoring chart data...
+2019-09-18 18:07:45,041 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.j.i.c.m.ChartJSONImExporter - Imported chart data Wed Sep 18 18:07:40 CDT 2019
+2019-09-18 18:07:47,026 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] play.api.Play - Application started (Prod)
+2019-09-18 18:07:49,835 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] p.c.s.AkkaHttpServer - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2019-09-18 18:07:56,508 [INFO] in scala-execution-context-global-44 - [[33mwarn[0m] c.jpro - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2019-09-18 18:07:57,159 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.jpro - application requested: 0!CalendarGraphics
+2019-09-18 18:07:57,244 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.jpro - Creating Application: 0!CalendarGraphics
+2019-09-18 18:07:57,264 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2019-09-18 18:07:57,276 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.jpro - host          localhost:8080
+2019-09-18 18:07:57,297 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.jpro - uri           /app/0!CalendarGraphics
+2019-09-18 18:07:59,235 [INFO] in scala-execution-context-global-44 - Font init, name: Roboto Regular filename: /media/luminous_nutria/Sample0164/CalProject/build/jpro/fonts/Roboto-Regular.ttf fIndex: 0
+2019-09-18 18:08:02,263 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.j.i.s.ViewSerializerActor - appdef: AppByMain(calendargraphics,graphics.GraphicsMain,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/CalendarGraphics,1366.0,611.0,false,en-US,List(en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-9-2-actorRefSource#-2069950000]
+2019-09-18 18:08:04,522 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] com.jpro.JS - received msg: new MainID: 601 userid: 1786299679
+2019-09-18 18:34:48,546 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.j.i.s.ViewInfo$ - 
+2019-09-18 18:34:48,550 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewInfo$ - Application closed:
+2019-09-18 18:34:48,558 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.j.i.s.ViewInfo$ - startTime      : Wed Sep 18 18:34:48 CDT 2019      
+2019-09-18 18:34:48,558 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.021 
+2019-09-18 18:34:48,559 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.001  
+2019-09-18 18:34:48,562 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000
+2019-09-18 18:34:48,566 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000
+2019-09-18 18:34:48,567 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewInfo$ - raw            : 3758735
+2019-09-18 18:34:48,567 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewInfo$ - zipped         : 1737180
+2019-09-18 18:34:48,568 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewInfo$ - 
+2019-09-23 13:56:25,141 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.Initializer$ - redirected OUT / ERR
+2019-09-23 13:56:25,142 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.Initializer$ - installed SLF4JBridge
+2019-09-23 13:56:25,143 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.MonocleInitializer$ - screen: null
+2019-09-23 13:56:25,143 [INFO] in scala-execution-context-global-32 - Warning: Quantum will not submit render jobs, nothing should draw
+2019-09-23 13:56:25,143 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.Initializer$ - finished init!
+2019-09-23 13:56:25,184 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.j.i.s.Initializer$ - JavaFX version: 11.0.3.1-jpro+0-2019-05-26-224641
+2019-09-23 13:56:25,373 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.j.i.c.m.DynamicDataModel - Started Monitoring chart data...
+2019-09-23 13:56:26,765 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.j.i.c.m.ChartJSONImExporter - Imported chart data Mon Sep 23 13:56:25 CDT 2019
+2019-09-23 13:56:27,703 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] play.api.Play - Application started (Prod)
+2019-09-23 13:56:30,287 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] p.c.s.AkkaHttpServer - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2019-09-23 13:56:35,136 [INFO] in scala-execution-context-global-44 - [[33mwarn[0m] c.jpro - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2019-09-23 13:56:35,427 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.jpro - application requested: 0!CalendarGraphics
+2019-09-23 13:56:35,517 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.jpro - Creating Application: 0!CalendarGraphics
+2019-09-23 13:56:35,566 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2019-09-23 13:56:35,577 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.jpro - host          localhost:8080
+2019-09-23 13:56:35,577 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.jpro - uri           /app/0!CalendarGraphics
+2019-09-23 13:56:37,354 [INFO] in scala-execution-context-global-32 - Font init, name: Roboto Regular filename: /media/luminous_nutria/Sample0164/CalendarGraphics/build/jpro/fonts/Roboto-Regular.ttf fIndex: 0
+2019-09-23 13:56:40,283 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewSerializerActor - appdef: AppByMain(calendargraphics,graphics.GraphicsMain,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/CalendarGraphics,1362.0,609.0,false,en-US,List(en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-10-2-actorRefSource#-165533868]
+2019-09-23 13:56:42,612 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] com.jpro.JS - received msg: new MainID: 638 userid: 535076471
+2019-09-23 13:58:54,503 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewInfo$ - 
+2019-09-23 13:58:54,504 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewInfo$ - Application closed:
+2019-09-23 13:58:54,541 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewInfo$ - startTime      : Mon Sep 23 13:58:54 CDT 2019      
+2019-09-23 13:58:54,560 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.036 
+2019-09-23 13:58:54,560 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.017  
+2019-09-23 13:58:54,560 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000
+2019-09-23 13:58:54,560 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000
+2019-09-23 13:58:54,560 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewInfo$ - raw            : 598995
+2019-09-23 13:58:54,560 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewInfo$ - zipped         : 173898
+2019-09-23 13:58:54,561 [INFO] in scala-execution-context-global-32 - [[37minfo[0m] c.j.i.s.ViewInfo$ - 
+2019-09-23 13:59:44,808 [INFO] in scala-execution-context-global-44 - [[37minfo[0m] c.j.i.c.InstanceImpl - closing window!

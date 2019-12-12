@@ -1,0 +1,172 @@
+2019-09-18 17:18:24,928 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-4 - Slf4jLogger started
+2019-09-18 17:18:26,170 [INFO] from com.jpro.activity in Thread-0 - Starting the server
+2019-09-18 17:18:26,173 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 -  *** Starting JPro: https://www.jpro.one/ ***
+2019-09-18 17:18:26,174 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - OS: Linux
+2019-09-18 17:18:26,234 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JPro: 2019.1.2
+2019-09-18 17:18:26,237 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - Java version: 13
+2019-09-18 17:18:26,237 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JVM: 13 Ubuntu
+2019-09-18 17:18:26,332 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - redirected OUT / ERR
+2019-09-18 17:18:26,332 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - installed SLF4JBridge
+2019-09-18 17:18:26,574 [INFO] from com.jpro.internal.server.MonocleInitializer$ in Thread-0 - screen: null
+2019-09-18 17:18:28,572 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - finished init!
+2019-09-18 17:18:28,604 [INFO] from com.jpro.internal.server.Initializer$ in JavaFX Application Thread - JavaFX version: 11.0.3.1-jpro+0-2019-05-26-224641
+2019-09-18 17:18:28,816 [INFO] from com.jpro.internal.chart.model.DynamicDataModel in JavaFX Application Thread - Started Monitoring chart data...
+2019-09-18 17:18:29,116 [INFO] from com.jpro.internal.chart.model.ChartJSONImExporter in JavaFX Application Thread - Nothing to import
+2019-09-18 17:18:30,408 [INFO] from play.api.Play in Thread-0 - Application started (Prod)
+2019-09-18 17:18:32,794 [INFO] from play.core.server.AkkaHttpServer in Thread-0 - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2019-09-18 17:18:37,456 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-8 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2019-09-18 17:18:37,634 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - application requested: 0!CalendarGraphics
+2019-09-18 17:18:37,685 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - Creating Application: 0!CalendarGraphics
+2019-09-18 17:18:37,700 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - remoteAddress 0:0:0:0:0:0:0:1
+2019-09-18 17:18:37,705 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - host          localhost:8080
+2019-09-18 17:18:37,709 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - uri           /app/0!CalendarGraphics
+2019-09-18 17:18:41,511 [INFO] from com.jpro.internal.server.ViewSerializerActor in JavaFX Application Thread - appdef: AppByMain(calendargraphics,graphics.GraphicsMain,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/CalendarGraphics,1366.0,611.0,false,en-US,List(en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-11-2-actorRefSource#-674295247]
+2019-09-18 17:18:43,804 [INFO] from com.jpro.JS in JavaFX Application Thread - received msg: new MainID: 601 userid: 976800669
+2019-09-18 17:19:47,760 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2019-09-18 17:19:47,772 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - Application closed:
+2019-09-18 17:19:47,847 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - startTime      : Wed Sep 18 17:19:47 CDT 2019      
+2019-09-18 17:19:47,858 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageLatency : 00:00:00.028 
+2019-09-18 17:19:47,861 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageJitter  : 00:00:00.007  
+2019-09-18 17:19:47,863 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateServer: 00:00:00.000
+2019-09-18 17:19:47,893 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateClient: 00:00:00.000
+2019-09-18 17:19:47,906 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - raw            : 315307
+2019-09-18 17:19:47,908 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - zipped         : 77519
+2019-09-18 17:19:47,908 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2019-09-18 17:39:23,831 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-4 - Slf4jLogger started
+2019-09-18 17:39:25,125 [INFO] from com.jpro.activity in Thread-0 - Starting the server
+2019-09-18 17:39:25,131 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 -  *** Starting JPro: https://www.jpro.one/ ***
+2019-09-18 17:39:25,135 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - OS: Linux
+2019-09-18 17:39:25,215 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JPro: 2019.1.2
+2019-09-18 17:39:25,222 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - Java version: 13
+2019-09-18 17:39:25,226 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JVM: 13 Ubuntu
+2019-09-18 17:39:25,329 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - redirected OUT / ERR
+2019-09-18 17:39:25,337 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - installed SLF4JBridge
+2019-09-18 17:39:25,582 [INFO] from com.jpro.internal.server.MonocleInitializer$ in Thread-0 - screen: null
+2019-09-18 17:39:28,566 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - finished init!
+2019-09-18 17:39:28,631 [INFO] from com.jpro.internal.server.Initializer$ in JavaFX Application Thread - JavaFX version: 11.0.3.1-jpro+0-2019-05-26-224641
+2019-09-18 17:39:28,958 [INFO] from com.jpro.internal.chart.model.DynamicDataModel in JavaFX Application Thread - Started Monitoring chart data...
+2019-09-18 17:39:30,384 [INFO] from com.jpro.internal.chart.model.ChartJSONImExporter in JavaFX Application Thread - Imported chart data Wed Sep 18 17:39:27 CDT 2019
+2019-09-18 17:39:31,853 [INFO] from play.api.Play in Thread-0 - Application started (Prod)
+2019-09-18 17:39:35,449 [INFO] from play.core.server.AkkaHttpServer in Thread-0 - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2019-09-18 17:39:41,238 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-3 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2019-09-18 17:39:41,730 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-3 - application requested: 0!CalendarGraphics
+2019-09-18 17:39:41,802 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-3 - Creating Application: 0!CalendarGraphics
+2019-09-18 17:39:41,821 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-3 - remoteAddress 127.0.0.1
+2019-09-18 17:39:41,833 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-3 - host          localhost:8080
+2019-09-18 17:39:41,853 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-3 - uri           /app/0!CalendarGraphics
+2019-09-18 17:39:46,347 [INFO] from com.jpro.internal.server.ViewSerializerActor in JavaFX Application Thread - appdef: AppByMain(calendargraphics,graphics.GraphicsMain,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/CalendarGraphics,1324.0,681.0,false,en-US,List(en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-9-2-actorRefSource#-1151713402]
+2019-09-18 17:39:48,645 [INFO] from com.jpro.JS in JavaFX Application Thread - received msg: new MainID: 601 userid: 1094756923
+2019-09-18 17:39:59,111 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2019-09-18 17:39:59,112 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - Application closed:
+2019-09-18 17:39:59,133 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - startTime      : Wed Sep 18 17:39:59 CDT 2019      
+2019-09-18 17:39:59,134 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageLatency : 00:00:00.026 
+2019-09-18 17:39:59,134 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageJitter  : 00:00:00.005  
+2019-09-18 17:39:59,173 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateServer: 00:00:00.000
+2019-09-18 17:39:59,183 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateClient: 00:00:00.000
+2019-09-18 17:39:59,190 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - raw            : 103715
+2019-09-18 17:39:59,191 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - zipped         : 18802
+2019-09-18 17:39:59,210 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2019-09-18 17:40:09,276 [INFO] from com.jpro.internal.communicator.InstanceImpl in JavaFX Application Thread - closing window!
+2019-09-18 17:40:54,599 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-2 - Slf4jLogger started
+2019-09-18 17:40:55,927 [INFO] from com.jpro.activity in Thread-0 - Starting the server
+2019-09-18 17:40:55,936 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 -  *** Starting JPro: https://www.jpro.one/ ***
+2019-09-18 17:40:55,937 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - OS: Linux
+2019-09-18 17:40:55,972 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JPro: 2019.1.2
+2019-09-18 17:40:55,973 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - Java version: 13
+2019-09-18 17:40:55,973 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JVM: 13 Ubuntu
+2019-09-18 17:40:56,101 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - redirected OUT / ERR
+2019-09-18 17:40:56,104 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - installed SLF4JBridge
+2019-09-18 17:40:56,308 [INFO] from com.jpro.internal.server.MonocleInitializer$ in Thread-0 - screen: null
+2019-09-18 17:40:58,720 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - finished init!
+2019-09-18 17:40:58,797 [INFO] from com.jpro.internal.server.Initializer$ in JavaFX Application Thread - JavaFX version: 11.0.3.1-jpro+0-2019-05-26-224641
+2019-09-18 17:40:58,983 [INFO] from com.jpro.internal.chart.model.DynamicDataModel in JavaFX Application Thread - Started Monitoring chart data...
+2019-09-18 17:41:00,441 [INFO] from com.jpro.internal.chart.model.ChartJSONImExporter in JavaFX Application Thread - Imported chart data Wed Sep 18 17:40:57 CDT 2019
+2019-09-18 17:41:01,963 [INFO] from play.api.Play in Thread-0 - Application started (Prod)
+2019-09-18 17:41:05,522 [INFO] from play.core.server.AkkaHttpServer in Thread-0 - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2019-09-18 17:41:10,986 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - application requested: 0!CalendarGraphics
+2019-09-18 17:41:11,060 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - Creating Application: 0!CalendarGraphics
+2019-09-18 17:41:11,086 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - remoteAddress 127.0.0.1
+2019-09-18 17:41:11,100 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - host          localhost:8080
+2019-09-18 17:41:11,100 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - uri           /app/0!CalendarGraphics
+2019-09-18 17:41:15,542 [INFO] from com.jpro.internal.server.ViewSerializerActor in JavaFX Application Thread - appdef: AppByMain(calendargraphics,graphics.GraphicsMain,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/CalendarGraphics,1324.0,681.0,false,en-US,List(en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-6-2-actorRefSource#1843379166]
+2019-09-18 17:41:18,456 [INFO] from com.jpro.JS in JavaFX Application Thread - received msg: new MainID: 601 userid: 1805138559
+2019-09-18 17:41:31,462 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2019-09-18 17:41:31,466 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - Application closed:
+2019-09-18 17:41:31,470 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - startTime      : Wed Sep 18 17:41:31 CDT 2019      
+2019-09-18 17:41:31,486 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageLatency : 00:00:00.030 
+2019-09-18 17:41:31,499 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageJitter  : 00:00:00.009  
+2019-09-18 17:41:31,514 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateServer: 00:00:00.000
+2019-09-18 17:41:31,526 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateClient: 00:00:00.000
+2019-09-18 17:41:31,529 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - raw            : 65818
+2019-09-18 17:41:31,531 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - zipped         : 17230
+2019-09-18 17:41:31,536 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2019-09-18 17:41:42,526 [INFO] from com.jpro.internal.communicator.InstanceImpl in JavaFX Application Thread - closing window!
+2019-09-18 18:07:36,526 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-3 - Slf4jLogger started
+2019-09-18 18:07:37,941 [INFO] from com.jpro.activity in Thread-0 - Starting the server
+2019-09-18 18:07:37,943 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 -  *** Starting JPro: https://www.jpro.one/ ***
+2019-09-18 18:07:37,944 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - OS: Linux
+2019-09-18 18:07:38,048 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JPro: 2019.1.2
+2019-09-18 18:07:38,048 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - Java version: 13
+2019-09-18 18:07:38,049 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JVM: 13 Ubuntu
+2019-09-18 18:07:38,225 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - redirected OUT / ERR
+2019-09-18 18:07:38,225 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - installed SLF4JBridge
+2019-09-18 18:07:38,490 [INFO] from com.jpro.internal.server.MonocleInitializer$ in Thread-0 - screen: null
+2019-09-18 18:07:42,208 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - finished init!
+2019-09-18 18:07:42,319 [INFO] from com.jpro.internal.server.Initializer$ in JavaFX Application Thread - JavaFX version: 11.0.3.1-jpro+0-2019-05-26-224641
+2019-09-18 18:07:42,640 [INFO] from com.jpro.internal.chart.model.DynamicDataModel in JavaFX Application Thread - Started Monitoring chart data...
+2019-09-18 18:07:45,036 [INFO] from com.jpro.internal.chart.model.ChartJSONImExporter in JavaFX Application Thread - Imported chart data Wed Sep 18 18:07:40 CDT 2019
+2019-09-18 18:07:47,020 [INFO] from play.api.Play in Thread-0 - Application started (Prod)
+2019-09-18 18:07:49,817 [INFO] from play.core.server.AkkaHttpServer in Thread-0 - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2019-09-18 18:07:56,495 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-5 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2019-09-18 18:07:57,153 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-18 - application requested: 0!CalendarGraphics
+2019-09-18 18:07:57,242 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-18 - Creating Application: 0!CalendarGraphics
+2019-09-18 18:07:57,261 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-18 - remoteAddress 0:0:0:0:0:0:0:1
+2019-09-18 18:07:57,272 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-18 - host          localhost:8080
+2019-09-18 18:07:57,273 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-18 - uri           /app/0!CalendarGraphics
+2019-09-18 18:08:02,261 [INFO] from com.jpro.internal.server.ViewSerializerActor in JavaFX Application Thread - appdef: AppByMain(calendargraphics,graphics.GraphicsMain,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/CalendarGraphics,1366.0,611.0,false,en-US,List(en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-9-2-actorRefSource#-2069950000]
+2019-09-18 18:08:04,518 [INFO] from com.jpro.JS in JavaFX Application Thread - received msg: new MainID: 601 userid: 1786299679
+2019-09-18 18:34:48,538 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2019-09-18 18:34:48,540 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - Application closed:
+2019-09-18 18:34:48,556 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - startTime      : Wed Sep 18 18:34:48 CDT 2019      
+2019-09-18 18:34:48,557 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageLatency : 00:00:00.021 
+2019-09-18 18:34:48,557 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageJitter  : 00:00:00.001  
+2019-09-18 18:34:48,561 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateServer: 00:00:00.000
+2019-09-18 18:34:48,564 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateClient: 00:00:00.000
+2019-09-18 18:34:48,565 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - raw            : 3758735
+2019-09-18 18:34:48,566 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - zipped         : 1737180
+2019-09-18 18:34:48,567 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2019-09-23 13:56:22,166 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-3 - Slf4jLogger started
+2019-09-23 13:56:23,214 [INFO] from com.jpro.activity in Thread-0 - Starting the server
+2019-09-23 13:56:23,217 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 -  *** Starting JPro: https://www.jpro.one/ ***
+2019-09-23 13:56:23,218 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - OS: Linux
+2019-09-23 13:56:23,253 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JPro: 2019.1.2
+2019-09-23 13:56:23,254 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - Java version: 13
+2019-09-23 13:56:23,256 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JVM: 13 Ubuntu
+2019-09-23 13:56:23,324 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - redirected OUT / ERR
+2019-09-23 13:56:23,329 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - installed SLF4JBridge
+2019-09-23 13:56:23,461 [INFO] from com.jpro.internal.server.MonocleInitializer$ in Thread-0 - screen: null
+2019-09-23 13:56:25,126 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - finished init!
+2019-09-23 13:56:25,182 [INFO] from com.jpro.internal.server.Initializer$ in JavaFX Application Thread - JavaFX version: 11.0.3.1-jpro+0-2019-05-26-224641
+2019-09-23 13:56:25,372 [INFO] from com.jpro.internal.chart.model.DynamicDataModel in JavaFX Application Thread - Started Monitoring chart data...
+2019-09-23 13:56:26,762 [INFO] from com.jpro.internal.chart.model.ChartJSONImExporter in JavaFX Application Thread - Imported chart data Mon Sep 23 13:56:25 CDT 2019
+2019-09-23 13:56:27,701 [INFO] from play.api.Play in Thread-0 - Application started (Prod)
+2019-09-23 13:56:30,284 [INFO] from play.core.server.AkkaHttpServer in Thread-0 - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2019-09-23 13:56:35,119 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-4 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2019-09-23 13:56:35,419 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - application requested: 0!CalendarGraphics
+2019-09-23 13:56:35,516 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - Creating Application: 0!CalendarGraphics
+2019-09-23 13:56:35,563 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - remoteAddress 0:0:0:0:0:0:0:1
+2019-09-23 13:56:35,570 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - host          localhost:8080
+2019-09-23 13:56:35,571 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - uri           /app/0!CalendarGraphics
+2019-09-23 13:56:40,282 [INFO] from com.jpro.internal.server.ViewSerializerActor in JavaFX Application Thread - appdef: AppByMain(calendargraphics,graphics.GraphicsMain,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/CalendarGraphics,1362.0,609.0,false,en-US,List(en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-10-2-actorRefSource#-165533868]
+2019-09-23 13:56:42,605 [INFO] from com.jpro.JS in JavaFX Application Thread - received msg: new MainID: 638 userid: 535076471
+2019-09-23 13:58:54,501 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2019-09-23 13:58:54,502 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - Application closed:
+2019-09-23 13:58:54,509 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - startTime      : Mon Sep 23 13:58:54 CDT 2019      
+2019-09-23 13:58:54,509 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageLatency : 00:00:00.036 
+2019-09-23 13:58:54,509 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageJitter  : 00:00:00.017  
+2019-09-23 13:58:54,511 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateServer: 00:00:00.000
+2019-09-23 13:58:54,542 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateClient: 00:00:00.000
+2019-09-23 13:58:54,542 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - raw            : 598995
+2019-09-23 13:58:54,542 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - zipped         : 173898
+2019-09-23 13:58:54,542 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2019-09-23 13:59:44,806 [INFO] from com.jpro.internal.communicator.InstanceImpl in JavaFX Application Thread - closing window!

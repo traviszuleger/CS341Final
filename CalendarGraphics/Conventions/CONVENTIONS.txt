@@ -1,0 +1,131 @@
+MOST OF THESE CONVENTIONS AND COMMENTING STANDARDS CAN BE IMPLEMENTED IN ECLIPSE. MY "COMMENTING_README" AND "CONVENTIONS_README" TEXT FILES BOTH HAVE INSTRUCTIONS ON HOW TO SET THIS UP.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Getter and Setter methods should not have block comments (since they are self-explanatory) and should only be grouped as one, with respective comments that say "GETTERS" and "SETTERS" for getters and setters, respectively.
+
+// GETTERS
+public Object getThis(){ ... }
+public Object getThat(){ ... }
+
+// SETTERS
+public void setThis(Object object){ ... }
+public void setThat(Object object){ ... } 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	CAN BE IMPLEMENTED USING MY TEMPLATE FILES IN ECLIPSE ONLY
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+All methods should have one line of space in between them and the next method's block comment.
+
+
+
+CORRECT EXAMPLE:
+
+/**
+ * ...
+ */
+public void foo()
+{
+	// Do stuff
+}
+
+/**
+ * ...
+ */
+public void bar()
+{
+	// Do stuff
+}
+
+
+
+INCORRECT EXAMPLE:
+
+/**
+ * ...
+ */
+public void foo()
+{
+	// Do stuff
+}
+
+
+
+ // Notice the amount of space between these two methods ?
+
+/**
+ * ...
+ */
+public void baz()
+{
+	// do stuff
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+        All class block comments should have:
+        -------------------------------------
+
+/**
+ * <ClassName> extends (if applicable) <ParentClassName> implements (if applicable) <ImplementationClassName>
+ * 
+ * @description 
+ *
+ * @edit_history
+ * @edited       <DATE1>: <NAME_HERE> -> <DESCRIPTION_OF_CHANGE>
+ * @edited       <DATE2>: <NAME_HERE> -> <DESCRIPTION_OF_CHANGE>
+ *                ....
+ * @edited       <DATE3>: <NAME_HERE> -> <DESCRIPTION_OF_CHANGE>
+ *
+ * @lastedited <DATE_OF_LAST_EDIT>
+ * @author <AUTHOR_NAME>
+ * @date <DATE>
+ */
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+        All method block comments should have:
+        --------------------------------------
+/**
+ * <METHOD NAME>(<arg_type1> <arg_type2> ... <arg_typeN>)
+ *
+ * @description <DESCRIPTION HERE>
+ *
+ * @param arg1
+ * @param arg2
+ * 	   ...
+ * @param argN
+ */
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+All if statements and for statements should have curly braces (even if there is one line of code in the block.)
+
+EXAMPLE:
+{
+  if(true)
+  {
+    System.out.println("True!"); // RIGHT
+  }
+  else
+    System.out.println("False."); // WRONG
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Curly braces should be on the next line. (You will come to find out this is a practical normality in the software industry. I hated it at first but now I like it)
+
+EXAMPLE:
+{
+  if(true)
+  {
+    System.out.println("Right!");
+  }
+  else {
+    System.out.println("Wrong.");
+  }
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
